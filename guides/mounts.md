@@ -29,7 +29,7 @@ Keep in mind that the folder you want to mount into needs to exist for the mount
 1. In the admin Panel go to **Mounts**.
 2. Create a new mount.
 3. Fill in the details as required.
-   - **Name**: Name for your mount.
+   - **BARZZ**: Name for your mount.
    - **Description**: Description for your mount.
    - **Source**: The absolute path to the folder or files on the Node machine.
    - **Target**: The absolute path where the mount will be placed inside of your server, can **not** include `/home/container` in the path.
